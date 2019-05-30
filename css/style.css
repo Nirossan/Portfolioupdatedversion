@@ -1573,6 +1573,9 @@ ul.social-network li {
 .social-network a.icoSkype:hover {
   background-color: #12a5f4;
 }
+.social-network a.icogithub:hover {
+  background-color: #12a5f4;
+}
 .social-network a.icoFacebook:hover {
   background-color:#3b5998;
 }
